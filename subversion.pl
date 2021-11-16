@@ -53,7 +53,7 @@ use JSON;
 #
 
 my $opt_domain = "foo.slack.com"; # Your team's domain
-my $opt_token = ""; # The token from your SVN services page
+my $opt_token = "RCGO41Vp4ecQlUkJmOM671U1"; # The token from your SVN services page
 
 
 #
